@@ -1,3 +1,7 @@
-<h1> sitema de registro </h1>
+<h1> Sitema de Registro </h1>
 
-- estado del proyecto: en construcción
+- Estado del proyecto: En construcción
+
+Para ejecutar el sistema, debe poner:
+
+``` npm install react ```
